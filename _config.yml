@@ -6,9 +6,9 @@ course_semester: "Spring 2026"
 baseurl: "/uir-cv-2026" # the subpath of your site, e.g. /blog/
 url: "http://liaoux.github.io/" # the base hostname & protocol for your site
 
-schoolname: "International University of Rabat"
-schoolurl: "https://uir.ac.ma"
-twitter_username: username 
+# schoolname: "International University of Rabat"
+# schoolurl: "https://uir.ac.ma"
+# twitter_username: username 
 
 address: |
     School of Computer Science and Digital Engineering
