@@ -1,19 +1,18 @@
 # Site settings
-course_name: Intro to Computer Vision
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_name: Computer Vision
+course_description: "This course provides an introduction to computer vision, including fundamentals of image formation, camera imaging geometry, feature detection and matching, and much more..."
 course_semester: "Spring 2026"
 
 baseurl: "/uir-cv-2026" # the subpath of your site, e.g. /blog/
 url: "http://liaoux.github.io/" # the base hostname & protocol for your site
 
-# schoolname: "International University of Rabat"
-# schoolurl: "https://uir.ac.ma"
+schoolname: "International University of Rabat"
+schoolurl: "https://uir.ac.ma"
 # twitter_username: username 
 
 address: |
-    School of Computer Science and Digital Engineering
-    International University of Rabat
-    Morocco
+    School of Computer Science and Digital Engineering (ESIN)
+    UIR - Morocco
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
