@@ -1,5 +1,5 @@
 # Site settings
-course_name: Introduction to Computer Vision
+course_name: Intro to Computer Vision
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Spring 2026"
 
@@ -11,9 +11,9 @@ schoolurl: "https://uir.ac.ma"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    School of Computer Science and Digital Engineering
+    International University of Rabat
+    Morocco
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
